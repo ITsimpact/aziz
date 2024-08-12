@@ -70,7 +70,7 @@ print(x, y)
 # except FileNotFoundError:
 #     print("file not found")
 
-# 5
+5
 # try:
 #     a = input("Введите число: ")
 #     b = int(a)
